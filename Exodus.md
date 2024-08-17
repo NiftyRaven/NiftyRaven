@@ -59,3 +59,9 @@ What you are about to embark on is not for the faint of heart.
 The journey is long, the path winding, and the destination unknown.  
 But if you persist, if you decode the hidden, you will emerge enlightened.  
 Welcome to the beginning of the end.
+
+---
+
+🔗 **[Start Here: NiftyMinter](https://github.com/NiftyRaven/Nifty-Minter-v2.0-beta.2---Open-Source/blob/Nifty-Minter%E2%84%A2/README.md)**  
+The path has many doors. This is one of them. Will you dare to open it?
+
