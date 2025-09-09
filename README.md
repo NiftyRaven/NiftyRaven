@@ -26,4 +26,10 @@ The road ahead is not for the faint of heart. Once you proceed, there is no turn
 
 We are the seekers, the truth-tellers, the coders in the dark. If you are ready, click the link and join us in the Exodus.
 
-🔗 [**Follow the Path**](https://x.com/NFTRVN)
+🔗 [**Connect on X**](https://x.com/NFTRVN)
+
+🔗 [**Connect by email**] - support@nftrvn.net
+
+🔗 [**Website**](https://niftyraven.com/)
+
+🔗 [**Discord**](https://discord.gg/nftrvn)
