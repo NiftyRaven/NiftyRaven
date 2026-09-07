@@ -1,35 +1,31 @@
-# 🧩 **The Gateway** 🧩
+# Jason Uhl
 
-### 👁️ **Welcome, Seeker of Truth**
+Nifty Raven. NFTRVN. Same guy.
 
-The journey begins here, but it does not end here. What you see is merely the surface, a prelude to the deeper secrets that await. There is another place, another document, where the truth lies hidden.
+I do program management and mechanical design at **AG Innovation**. Automotive automation. CAD/CAM. SolidWorks. CNC. Michigan shop. Detroit metro.
 
----
+A leftover bar does not look like much. Eighteen inches of 2×2. A scrap of 6061 with a job number written in marker. That is how shops lose money — not in one dramatic mistake, but in a hundred quiet ones.
 
-### 📜 **Exodus: The Revelation of the Code**
+I built a tool for that.
 
-**Are you ready to step into the shadows?**  
-To uncover what lies beyond, you must journey to the Exodus.  
-It is there that the path truly begins.
+## Shop Inventory Tracker
 
-🔗 [**Enter the Exodus**](./Exodus.md)
+Leftover bars. Remnants. Purchased parts. One PC. No cloud. MIT. Double-click start.
 
----
+Built first for AG Innovation — a real shop, real racks, real jobs. Then opened so the next shop does not have to start from zero.
 
-### ⚠️ **Warning:**  
-The road ahead is not for the faint of heart. Once you proceed, there is no turning back. Are you prepared to unlock the secrets that have been concealed from you?
+**[Download v1.0.0](https://github.com/NiftyRaven/shop-inventory-tracker/releases/latest)** · [source](https://github.com/NiftyRaven/shop-inventory-tracker)
 
-**Proceed with caution. Knowledge is power, but it is also a burden.**  
----
+I believe in planting a lot of seeds. Not every seed becomes a tree. That is not the point.
 
-### 🕵️ **Where We Go One, We Go All**
+## The Ravencoin years
 
-We are the seekers, the truth-tellers, the coders in the dark. If you are ready, click the link and join us in the Exodus.
+For years I built on Ravencoin as Nifty Raven. Nifty Minter. Mint and trade tools. Community. Spaces. A marketplace people actually used.
 
-🔗 [**Connect on X**](https://x.com/NFTRVN)
+That chapter is closed. I left the way I came. Thank you.
 
-🔗 [**Connect by email**] - support@nftrvn.net
+## Write
 
-🔗 [**Website**](https://niftyraven.com/)
+I write on [X](https://x.com/NFTRVN). Shop. Hardware. Jesus.
 
-🔗 [**Discord**](https://discord.gg/nftrvn)
+[LinkedIn](https://www.linkedin.com/in/jason-uhl-028443176)
