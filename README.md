@@ -22,7 +22,9 @@ I believe in planting a lot of seeds. Not every seed becomes a tree. That is not
 
 For years I built on Ravencoin as Nifty Raven. Nifty Minter. Mint and trade tools. Community. Spaces. A marketplace people actually used.
 
-That chapter is closed. I left the way I came. Thank you.
+I left the way I came. 
+
+Thank you. <3
 
 ## Write
 
