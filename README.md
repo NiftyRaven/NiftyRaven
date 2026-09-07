@@ -24,6 +24,8 @@ For years I built on Ravencoin as Nifty Raven. Nifty Minter. Mint and trade tool
 
 I left the way I came. 
 
+(When the time comes to connect Industries to the world of Tokenization & Blockchain, and they are ready... so will I.)
+
 Thank you. <3
 
 ## Write
